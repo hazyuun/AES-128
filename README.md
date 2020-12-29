@@ -3,6 +3,20 @@ AES-128 encryption algorithm implementated in C
 
 > I did this to understand how AES works, this is not for general use since I did not focus on performance, security, etc, and I did not test it that much. So if you are looking for an AES encryption library to use in production, this is not the right one to choose. Thank you.
 
+## Getting started
+Clone the repo
+```bash
+$ git clone https://github.com/A-Rain-Lover/AES-128.git
+```
+Compile using
+```bash
+$ make all
+```
+Run the tests
+```bash
+$ ./bin/tests
+```
+
 ## Test output
 I tested with an example from the original [FIPS 197](https://csrc.nist.gov/publications/detail/fips/197/final) publication
 ```
@@ -51,19 +65,8 @@ I tested with an example from the original [FIPS 197](https://csrc.nist.gov/publ
      output :  0x69 0xC4 0xE0 0xD8 0x6A 0x7B 0x04 0x30 0xD8 0xCD 0xB7 0x80 0x70 0xB4 0xC5 0x5A
 ```
 
-## Getting started
-Clone the repo
-```bash
-$ git clone https://github.com/A-Rain-Lover/AES-128.git
-```
-Compile using
-```bash
-$ make all
-```
-Run the tests
-```bash
-$ ./bin/tests
-```
+## TODO
+- [ ] Decryption algorithm
 
 ## References
 * [AES specification in the original FIPS 197 publication](https://csrc.nist.gov/publications/detail/fips/197/final)
