@@ -1,6 +1,6 @@
 /**
  *	@file lookup.h
- *	@author Yuun | A-Rain-Lover
+ *	@author computer-spectre
  * */
 
 
