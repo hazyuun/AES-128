@@ -6,7 +6,7 @@ AES-128 encryption algorithm implementated in C
 ## Getting started
 Clone the repo
 ```bash
-$ git clone https://github.com/A-Rain-Lover/AES-128.git
+$ git clone https://github.com/computer-spectre/AES-128.git
 ```
 Compile using
 ```bash
