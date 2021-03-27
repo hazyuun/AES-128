@@ -1,6 +1,6 @@
 /**
  *	@file aes.c
- *	@author Yuun | A-Rain-Lover
+ *	@author computer-spectre
  * */
 
 #include <aes.h>
