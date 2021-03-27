@@ -1,6 +1,6 @@
 /**
  *	@file aes.h
- *	@author Yuun | A-Rain-Lover
+ *	@author computer-spectre
  * */
 
 #ifndef _AES_H_
