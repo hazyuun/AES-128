@@ -1,6 +1,5 @@
 /**
  *	@file aes.c
- *	@author computer-spectre
  * */
 
 #include <aes.h>
