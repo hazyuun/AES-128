@@ -1,6 +1,5 @@
 /**
  *	@file lookup.h
- *	@author computer-spectre
  * */
 
 
