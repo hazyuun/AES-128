@@ -1,6 +1,5 @@
 /**
  *	@file aes.h
- *	@author computer-spectre
  * */
 
 #ifndef _AES_H_
